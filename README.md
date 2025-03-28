@@ -3,4 +3,4 @@ Plugin Name: WP AI Chat
  * OpenAI compatible API parameter settings
  * Floating window, and can be optionally closed
  * Short code [wp_iuchat]
- * Save conversation records
+ * Save and view chat history
